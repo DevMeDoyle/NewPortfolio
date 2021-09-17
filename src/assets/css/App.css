@@ -1,0 +1,64 @@
+
+
+/* Nav Link */
+
+#header
+{
+
+  display: grid;
+  grid-template-columns: 35% 50% 10%;
+  /* Nav Link   column-gap: 16px; justify-items: center;   max-width: 1200px; */
+  margin: 0 auto;
+  background-color: #001834;
+  color: whitesmoke;
+  font-family: "Roboto";
+  font-weight: 400;
+  
+}
+
+#header a
+{
+  color: whitesmoke;
+}
+
+.JD
+{
+  margin-left: 10%;
+  font-size: 30px;
+}
+
+li
+{ 
+display:inline; 
+
+}  
+
+ul
+{
+  text-align: none;
+}
+
+.intro
+{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  background-color: #001834;
+}
+
+.intro h1{
+
+  font-size: 72px;
+  font-weight: bold;
+  color: whitesmoke;
+
+}
+
+.intro_1
+{
+  margin: 20%;
+}
+
+.is-danger
+{
+margin-top: 5%;
+}
